@@ -1,0 +1,26 @@
+{
+  "name": "blockchain-pow-benchmark-client-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/blessed": "^0.1.25",
+    "@types/crypto-js": "^4.2.2",
+    "@types/node": "^20.14.2",
+    "axios": "^1.7.2",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
